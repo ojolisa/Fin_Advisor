@@ -1,5 +1,4 @@
 pathlib
-textwrap
 Pillow
 google-generativeai
 ipython
