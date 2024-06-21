@@ -1,0 +1,6 @@
+pathlib
+textwrap
+Pillow
+google-generativeai
+ipython
+streamlit
